@@ -1,0 +1,41 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#header-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/4blq8xboa5bz.png);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+    background-color: black;
+}
+
+#second-section{
+    background-color: black;
+}
+
+#third-section{
+    background-color: black;
+}
+
+.text-in-white{
+    color: white;
+}
+.text-in-black{
+    color: black;
+}
+
+#parallax-section {
+    background-image: url(../images/fond-ecran-noir.jpg);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#footer-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/touka\ kirishima\ wallpaper.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
